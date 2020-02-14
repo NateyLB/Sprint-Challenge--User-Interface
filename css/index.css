@@ -111,34 +111,34 @@ p {
     justify-content: center;
 }
 
- .box1{
+ .boxes .box:nth-child(1){
     background-color:teal;
 }
- .box2{ 
+ .boxes .box:nth-child(2){ 
      background-color:gold;
  }
- .box3{ 
+ .boxes .box:nth-child(3){ 
      background-color:cadetblue;
  }
-.box4{
+ .boxes .box:nth-child(4){
     background-color:coral;
 }
- .box5{ 
+ .boxes .box:nth-child(5){ 
      background-color:crimson;
  }
- .box6{ 
+ .boxes .box:nth-child(6){ 
     background-color:forestgreen;
  }
- .box7 {
+ .boxes .box:nth-child(7){
      background-color:darkorchid;
  }
- .box8{
+ .boxes .box:nth-child(8){
     background-color:hotpink;
 }
- .box9{ 
+.boxes .box:nth-child(9){ 
     background-color:indigo;
  }
- .box10{
+ .boxes .box:nth-child(10){
     background-color:dodgerblue;
  }
 
