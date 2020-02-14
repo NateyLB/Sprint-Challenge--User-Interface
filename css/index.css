@@ -273,3 +273,43 @@ div .imgBox{
     width: 90%;
     height: 65%;
 }
+
+/* contact page */
+
+section .bigTitle{
+    display:flex;
+    justify-content:center;
+}
+
+.bigTitle h1{
+    height:25%;
+    width:100%;
+    font-size:7vw;
+    text-align: center;
+}
+
+form{
+    display:flex;
+    flex-direction: column;
+    height: 44vw;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.formBox{
+    width:18%;
+    height: 70%;
+    display:flex;
+    flex-direction:column;
+    justify-content: space-evenly;
+}
+
+.message{
+    width: 100%;
+    height:18%
+}
+
+.message input{
+    width:100%;
+    height: 100%;
+}
